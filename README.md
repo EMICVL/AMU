@@ -1,4 +1,4 @@
-HZ
+Azerbaijan Medical University 
 ==
 
 [Scenario] (http://youtube.com/watch?v=VEdFXI6a9dk)
