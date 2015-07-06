@@ -1,1 +1,8 @@
 
+<object width="470" height="353">
+    <param name="movie" value="http://video.rutube.ru/e9b91948cc07723a8f37b5daabdc9700">
+    <param name="wmode" value="window">
+    <param name="allowFullScreen" value="true">
+    <embed src="http://video.rutube.ru/e9b91948cc07723a8f37b5daabdc9700" type="application/x-shockwave-flash" wmode="window" allowfullscreen="true" width="470" height="353">
+  </object>
+  
