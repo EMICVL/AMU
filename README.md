@@ -1,6 +1,5 @@
 Azerbaijan Medical University 
 ==
-(Please move this repository to the AMU Team space: http://github.com/orgs/EMICVL/teams/amu )
 
 * [AMU & Tempus Project Web - EMICVL](https://sites.google.com/site/engemicvl/home)
 * [Scenario](https://youtu.be/yIoH5S3m-IY)
